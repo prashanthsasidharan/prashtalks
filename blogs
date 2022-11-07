@@ -132,11 +132,11 @@
 
       <div class="pagination">
         <div class="left disable">
-          <a rel="prev"  href="/">← PREV</a>
+          <a rel="prev"  href="/prashtalks">← PREV</a>
         </div>
 
         <div class="right">
-          <a rel="next" href="/blog/2.html">→ NEXT</a>
+          <a rel="next" href="/prashtalks/blog/2.html">→ NEXT</a>
         </div>
       </div>
 
